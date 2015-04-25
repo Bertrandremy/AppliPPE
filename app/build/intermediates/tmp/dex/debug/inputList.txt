@@ -1,0 +1,2 @@
+C:\Users\Bertrand\Desktop\AppliPPE\app\build\intermediates\classes\debug
+C:\Users\Bertrand\Desktop\AppliPPE\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-341d14f98467950d07075661b99da4a2fbf7a95d.jar
