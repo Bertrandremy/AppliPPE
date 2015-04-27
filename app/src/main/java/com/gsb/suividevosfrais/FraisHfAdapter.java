@@ -89,7 +89,7 @@ public class FraisHfAdapter extends BaseAdapter {
         holder.btnsuppr.setTag(index) ;
         holder.btnsuppr.setOnClickListener(new OnClickListener(){
 
-            //Evenement suppression d'une ligne
+            //Suppression d'une ligne
             @Override
             public void onClick(View v) {
                 int ligne = (Integer)v.getTag() ;

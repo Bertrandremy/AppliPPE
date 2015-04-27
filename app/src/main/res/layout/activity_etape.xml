@@ -80,10 +80,10 @@
                     android:layout_weight="1"
                     android:gravity="right|center_vertical"
                     android:inputType="number"
-                    android:longClickable="true"
-                    android:clickable="true"
-                    android:focusable="true"
-                    android:focusableInTouchMode="true" >
+                    android:longClickable="false"
+                    android:clickable="false"
+                    android:focusable="false"
+                    android:focusableInTouchMode="false" >
 
                     <requestFocus />
                 </EditText>
